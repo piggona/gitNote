@@ -12,4 +12,5 @@
 - GET使用query string
 - POST使用query string或request body(header content type被标记为application/x-www-form-urlencoded)
 
-
+# 限制头部
+- IPLimits:`X-MBX-USED-WEIGHT-(intervalNum)`
