@@ -6,4 +6,6 @@
 - 403:WAF(Web Application Firewall)的原因被屏蔽
 - 429:超出最高访问频率
 - 418:在收到429之后仍然不断访问
-- 
+- 5XX:Internal Servet Error
+
+
