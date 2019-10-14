@@ -8,6 +8,6 @@
 - 418:在收到429之后仍然不断访问
 - 5XX:Internal Servet Error
 
-# 请求限制
+# 请求方式
 - GET使用query string
 - POST使用query string或request body(header content type被标记为application/x-www-form-urlencoded)
