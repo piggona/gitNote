@@ -8,5 +8,6 @@ import (
 )
 
 func main() {
-	fmt.
+	fmt.Println("response")
+}
 ```
