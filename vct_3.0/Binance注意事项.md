@@ -8,4 +8,6 @@
 - 418:在收到429之后仍然不断访问
 - 5XX:Internal Servet Error
 
-
+# 请求限制
+- GET使用query string
+- POST
